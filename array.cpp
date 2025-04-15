@@ -20,7 +20,7 @@ int main () {
         cout << "Nama Mahasiswa ke-" << n+1 << " = ";
         cout << "Nama Mahasiswa = ";
         cin >> nama [n]; 
-        }
+        } 
         
         cout << endl;
         //Menampilkan isi Array
@@ -29,3 +29,4 @@ int main () {
             cout << "Data Mahasiswa = " << nama[n] << endl;
         }
     }
+   
